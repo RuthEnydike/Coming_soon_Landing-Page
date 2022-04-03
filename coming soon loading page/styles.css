@@ -1,0 +1,31 @@
+.container{
+    background-color: antiquewhite;
+    
+    box-shadow: 2px 2px 4px 4px rgb(202, 176, 176);
+    border-radius: 2px;
+    height: 100%;
+    width: 100%;
+}
+.top{
+    border: 1px;
+    padding-left: 70px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.middle-navigation{
+    padding-top: 100px;
+
+}
+.we{
+    color: brown;
+    font-style: initial;
+    }
+    .page{
+        color: brown;
+    }
+input{
+    width: 300px;
+    border-radius: 10px;
+    height: 40px;
+    border-color: brown;
+}
